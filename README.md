@@ -1,4 +1,4 @@
-# beatles
+# beatles-lyrics
 
 Text files containing the lyrics for all of the "core" studio albums recorded by The Beatles.  Lyrics are taken from [LyricWiki](http://lyrics.wikia.com/wiki/The_Beatles).  Albums included:
 * Please Please Me
