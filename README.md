@@ -6,9 +6,9 @@ Text files containing the lyrics for all of the "core" studio albums recorded by
 * A Hard Day's Night
 * Beatles for Sale
 * Help!
-* ~~Rubber Soul~~
-* ~~Revolver~~
-* ~~Sgt. Pepper's Lonely Hearts Club Band~~
+* Rubber Soul
+* Revolver
+* Sgt. Pepper's Lonely Hearts Club Band
 * ~~Magical Mystery Tour~~
 * ~~The Beatles~~
 * ~~Yellow Submarine~~
