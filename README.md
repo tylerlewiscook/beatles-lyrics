@@ -9,8 +9,8 @@ Text files containing the lyrics for all of the "core" studio albums recorded by
 * Rubber Soul
 * Revolver
 * Sgt. Pepper's Lonely Hearts Club Band
-* ~~Magical Mystery Tour~~
-* ~~The Beatles~~
-* ~~Yellow Submarine~~
-* ~~Abbey Road~~
-* ~~Let It Be~~
+* Magical Mystery Tour
+* The Beatles
+* Yellow Submarine
+* Abbey Road
+* Let It Be
