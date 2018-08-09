@@ -24,4 +24,4 @@ freq <- colSums(as.matrix(dtm))
 # Word cloud -----------------------------------------------------------------
 
 set.seed(1)
-wordcloud(names(freq), freq, min.freq = 5, colors = brewer.pal(6, "Blues"))
+wordcloud(names(freq), freq, min.freq = 5, colors = brewer.pal(3, "Accent"))
